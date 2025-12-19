@@ -1,4 +1,4 @@
 # helloworld
 this is my first git repo
 
-author - agnibh karmkar
+author - Agnibh Karmakar
